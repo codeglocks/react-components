@@ -1,8 +1,14 @@
 import React from 'react';
 import './App.css';
+import Button from './components/Button/Button';
 
 function App() {
-	return <div>Clean template</div>;
+	return (
+		<div>
+			<h1>Components showcase</h1>
+			<Button title='Click me' />
+		</div>
+	);
 }
 
 export default App;
