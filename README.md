@@ -1,3 +1,6 @@
+![CI/CD](https://github.com/codeglocks/react-components/actions/workflows/cicd.yml/badge.svg)
+![License](https://img.shields.io/github/license/codeglocks/react-components)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
